@@ -54,7 +54,7 @@
 ### Скріншоти застосунку
 | Головна сторінка | Структура папок | Створення папки | Створення файлу | Властивості файлу | Видалення файлу |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Screen 1](/lab-4/screenshots/screenshot1.jpg) | ![Screen 2](/lab-4/screenshots/screenshot2.jpg) | ![Screen 3](/lab-4/screenshots/screenshot3.jpg) | ![Screen 4](/lab-4/screenshots/screenshot4.jpg) | ![Screen 5](/lab-4/screenshots/screenshot5.jpg) | ![Screen 6](/lab-4/screenshots/screenshot6.jpg) |
+| ![Screen 1](./screenshots/screenshot1.png) | ![Screen 2](./screenshots/screenshot2.png) | ![Screen 3](./screenshots/screenshot3.png) | ![Screen 4](./screenshots/screenshot4.png) | ![Screen 5](./screenshots/screenshot5.png) | ![Screen 6](./screenshots/screenshot6.png) |
 
 ---
 
@@ -69,11 +69,14 @@
 3. **Встановіть необхідні залежності:**
    ```bash
    npm install
-4. **Запустіть Expo CLI:**
+4. **Зкомпілюйте Expo CLI:**
    ```bash
-   npx expo start
-5. **Відкрийте додаток:**
-   * Скануйте QR-код через додаток Expo Go на вашому смартфоні.
+   npx expo start -c
+5. **Запустіть Expo CLI:**
+   ```bash
+   npx expo start --tunnel
+6. **Відкрийте додаток:**
+   * Скануйте QR-код через додаток Expo Go на вашому смартфоні (Android/iOS).
    * Або натисніть **a** для запуску на Android Emulator.
    * Або натисніть **i** для запуску на iOS Simulator.
 
