@@ -9,7 +9,7 @@
 
 | Новини | Галерея | Профіль |
 | :---: | :---: | :---: |
-| ![Screen 1](Lab1/screenshots/screenshot_1.png) | ![Screen 2](Lab1/screenshots/screenshot_2.png) | ![Screen 3](Lab1/screenshots/screenshot_3.png) |
+| ![Screen 1](./screenshots/screenshot_1.png) | ![Screen 2](./screenshots/screenshot_2.png) | ![Screen 3](./screenshots/screenshot_3.png) |
 
 ---
 
