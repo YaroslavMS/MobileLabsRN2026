@@ -8,7 +8,7 @@
 
 ### 1. Інтерактивні жести
 
-Реалізовано комплексний ігровий елемент ABOBA, який реагує на широкий спектр дій завдяки сучасній системі GestureDetector:
+Реалізовано комплексний ігровий елемент Quantum Cube, який реагує на широкий спектр дій завдяки сучасній системі GestureDetector:
 - **Taps & Long Press:** Одинарний тап (1 очко), подвійний тап (10 очок) та утримання протягом 800 мс (50 очок) з використанням Gesture.Exclusive.
 - **Pan Gesture:** Можливість вільного переміщення об'єкта по всьому екрану зі збереженням нової позиції після відпускання.
 - **Fling:** Швидкі свайпи вліво та вправо для нарахування випадкової кількості бонусних балів (від 1 до 100).
@@ -34,7 +34,7 @@
 
 | Гра світла тема | Гра темна тема | Завдання | Налаштування |
 | :---: | :---: | :---: | :---: |
-| ![Screen 1](/lab3/screenshots/screenshot1.jpg) | ![Screen 2](/lab3/screenshots/screenshot2.jpg) | ![Screen 3](/lab3/screenshots/screenshot3.jpg) | ![Screen 4](/lab3/screenshots/screenshot4.jpg) |
+| ![Screen 1](./screenshots/screenshot1.png) | ![Screen 2](./screenshots/screenshot2.png) | ![Screen 3](./screenshots/screenshot3.png) | ![Screen 4](./screenshots/screenshot4.png) |
 
 ## Інструкція із запуску
 
@@ -47,10 +47,13 @@
 3. **Встановіть необхідні залежності:**
    ```bash
    npm install
-4. **Запустіть Expo CLI:**
+4. **Зкомпілюйте Expo CLI:**
+   ```bash
+   npx expo start -c
+5. **Запустіть Expo CLI:**
    ```bash
    npx expo start --tunnel
-5. **Відкрийте додаток:**
+6. **Відкрийте додаток:**
    * Скануйте QR-код через додаток Expo Go на вашому смартфоні.
    * Або натисніть **a** для запуску на Android Emulator.
    * Або натисніть **i** для запуску на iOS Simulator.
