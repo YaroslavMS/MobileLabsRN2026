@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "lab2",
-    "slug": "lab2",
+    "name": "lab-3",
+    "slug": "lab-3",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "lab2",
+    "scheme": "lab3",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -41,7 +41,8 @@
       ]
     ],
     "experiments": {
-      "typedRoutes": true
+      "typedRoutes": true,
+      "reactCompiler": true
     }
   }
 }
