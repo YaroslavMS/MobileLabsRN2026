@@ -24,7 +24,7 @@
 
 | Стрічнка новин | Деталі новин | Контакти | Кастомне меню |
 | :---: | :---: | :---: | :---: |
-| ![Screen 1](./screenshots/screenshot1.jpg) | ![Screen 2](./screenshots/screenshot2.jpg) | ![Screen 3](./screenshots/screenshot3.jpg) | ![Screen 4](./screenshots/screenshot4.jpg) |
+| ![Screen 1](./screenshots/screenshot1.png) | ![Screen 2](./screenshots/screenshot2.png) | ![Screen 3](./screenshots/screenshot3.png) | ![Screen 4](./screenshots/screenshot4.png) |
 
 ## Інструкція із запуску
 
