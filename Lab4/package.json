@@ -1,6 +1,6 @@
 {
-  "name": "lab-3",
-  "main": "index.js",
+  "name": "lab4",
+  "main": "expo/AppEntry.js",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
@@ -13,11 +13,11 @@
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
     "@react-navigation/bottom-tabs": "^7.4.0",
-    "@react-navigation/drawer": "^7.9.8",
     "@react-navigation/elements": "^2.6.3",
-    "@react-navigation/native": "^7.2.2",
+    "@react-navigation/native": "^7.1.8",
     "expo": "~54.0.33",
     "expo-constants": "~18.0.13",
+    "expo-file-system": "~19.0.21",
     "expo-font": "~14.0.11",
     "expo-haptics": "~15.0.8",
     "expo-image": "~3.0.11",
@@ -41,9 +41,9 @@
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
+    "typescript": "~5.9.2",
     "eslint": "^9.25.0",
-    "eslint-config-expo": "~10.0.0",
-    "typescript": "~5.9.2"
+    "eslint-config-expo": "~10.0.0"
   },
   "private": true
 }
